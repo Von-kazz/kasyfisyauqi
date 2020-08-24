@@ -1,0 +1,11 @@
+# kasyfisyauqi
+latihan paradigma OOP
+
+<?php
+class RPL{
+}
+$guru = new RPL ();
+$murid = new RPL ();
+$rombel = new RPL ();
+$kelas = new RPL ();
+?>

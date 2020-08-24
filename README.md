@@ -1,2 +1,0 @@
-# kasyfisyauqi
-latihan paradigma OOP
