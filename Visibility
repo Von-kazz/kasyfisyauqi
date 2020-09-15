@@ -1,0 +1,6 @@
+<?php
+Class motor {
+  Public $merek;
+         Protected $warna;
+         Private $turbo;
+}
